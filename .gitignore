@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignored files
+yelp_dataset/
+business.pkl
+omnivores_neighborhood.pdf
+test.txt
+yelp_dataset.tgz
+sents.csv
+reviews.csv
